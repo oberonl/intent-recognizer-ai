@@ -1,0 +1,2 @@
+Классификатор запросов, построен на базе модели roberta
+Использована модель transformers joeddav/xlm-roberta-large-xnli

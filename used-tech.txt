@@ -1,0 +1,7 @@
+- HuggingFace Transformers (https://huggingface.co/) - Фреймворк для построения и использования моделей машинного обучения
+- Tensorflow (https://www.tensorflow.org/) - Платформа для составления моделей машинного обучения
+- Sentencepiece (https://github.com/google/sentencepiece) - Токенайзер\детокенайзер
+- Pytorch (https://pytorch.org/) - Фреймворк для создания моделей машинного обучения
+- Fastapi (https://fastapi.tiangolo.com/) - Фреймворк для создания RESTfull API
+- Uvicorn (https://www.uvicorn.org/) - Легковестная имплементация ASGI сервера
+- Loguru (https://github.com/Delgan/loguru) - Библиотека логгирования
