@@ -7,7 +7,7 @@ from loguru import logger
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
 
-from src.model.ai import classify_intent
+from model.ai import classify_intent
 
 # Текущая версия компонента
 VERSION = "1.0.0"
